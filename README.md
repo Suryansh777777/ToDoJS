@@ -5,11 +5,10 @@ A feature-rich Task Management application built with HTML, CSS, and JavaScript.
 
 ## Features
 
-- Create, edit, and delete tasks
-- Set due dates and priorities for tasks
-- Categorize tasks into projects
-- Mark tasks as completed
-- Responsive design for a seamless experience on various devices
+- Create 
+- Edit
+- Delete tasks
+- Tasks saved in Local Storage
 
 ## Demo
 
